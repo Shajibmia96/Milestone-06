@@ -18,4 +18,14 @@ function fullName (firstName ,  lastName){
   const sum = "The sum "  + a +   " and "  +b+  " Total "+  (a+b);
   console.log(sum);
   const sequence = `The sum ${a} and  ${b} is equals to ${a+b}`;
-  console.log(sequence)
+  console.log(sequence);
+
+  const letter = `Date : 09/11/2023
+  From CEO,
+  Win Institute,
+  My dear sir,
+ 
+   At first take salam . I am start huge respect for you,
+   I was students of your institute in the year of 2023;
+  `
+  console.log(letter)
