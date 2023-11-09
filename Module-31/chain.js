@@ -34,3 +34,4 @@ const data2 = {
    }
 console.log(data1.moreInfo[0].Height)
 console.log(data2?.moreInfo[0]?.Height)
+console.log(data2)
