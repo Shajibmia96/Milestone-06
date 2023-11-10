@@ -30,6 +30,7 @@ class HouseNumber extends Address {
 
 const Shajib = new HouseNumber("Narayangonj" , "Araihajar" , "Bishnondi", "Chaitankanda" , "Uttor para  Sarkar Bari" , 596);
 const Sayem = new HouseNumber ("Narsingdi","Raipura" ,"Adiabad" , "ShirajNogorNoyachor","East para","KadirBari", 322 );
+
 const Akash = new FamilyMember("Narsingdi" , "Ship por" , "Ushor" , "Sristigor", "Hajibagan", 122 , 4 );
 console.log(Akash)
 // console.log(Sayem)
