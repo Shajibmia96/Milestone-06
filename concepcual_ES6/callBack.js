@@ -18,5 +18,12 @@
     const mul = x*y
     console.log(mul)
  }
+ const divided =(x,y) =>{
+     const div =x/y;
+     console.log(div);
+ }
 
-getSum(10,10 ,setValue)
+ 
+
+getSum(10,10 ,setValue);
+getSum(100 , 10 ,divided)
