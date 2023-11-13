@@ -26,7 +26,8 @@ const fruits = ["mango", "apple" , "grep" , "guava" , "jackfruit" , "grep"];
 //   console.log(total)
 
  const mark = [43,56,75,43,56,35,53,67];
-  const totalMark = mark.reduce((pre , cur)=> pre* cur ,1 )
+const preTotal = 100
+  const totalMark = mark.reduce((pre , cur)=> pre +cur ,preTotal )
   console.log(totalMark)
 
  
